@@ -1,0 +1,25 @@
+
+body{
+background:#2e2e2e;
+
+}
+
+.bg-dark{
+    background-color:#4b0082!important;
+}
+
+.bg-light{
+	background-color: rgba(0, 0, 0,0.1)!important;
+}
+
+.bg-secondary{
+	background:#2e2e2e!important;
+}
+
+.text-secondary{
+	color:#828282 !important;
+}
+
+.text-light{
+	color:#b69b68 !important;
+}
